@@ -1,0 +1,13 @@
+<map id="IPlugVST.h" name="IPlugVST.h">
+<area shape="rect" id="node3" href="$_i_plug_base__select_8h_source.html" title="IPlugBase_select.h" alt="" coords="746,80,880,107"/>
+<area shape="rect" id="node4" href="$_i_plug_base_graphics_8h.html" title="An IPlugBase class for an IPlug plug&#45;in that uses IGraphics for it&#39;s UI. " alt="" coords="741,155,885,181"/>
+<area shape="rect" id="node5" href="$_i_plug_base_8h.html" title="The lowest level base class of an IPlug plug&#45;in. " alt="" coords="767,229,860,256"/>
+<area shape="rect" id="node10" href="$_i_plug_platform_8h.html" title="Include to get consistently named preprocessor macros for different platforms and logging functionali..." alt="" coords="545,379,656,405"/>
+<area shape="rect" id="node18" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="473,528,580,555"/>
+<area shape="rect" id="node21" href="$_i_plug_constants_8h.html" title="Constant definitions, magic numbers. " alt="" coords="765,603,888,629"/>
+<area shape="rect" id="node22" href="$_i_plug_structs_8h_source.html" title="IPlugStructs.h" alt="" coords="679,304,784,331"/>
+<area shape="rect" id="node25" href="$_i_plug_parameter_8h_source.html" title="IPlugParameter.h" alt="" coords="92,453,215,480"/>
+<area shape="rect" id="node26" href="$_n_chan_delay_8h_source.html" title="NChanDelay.h" alt="" coords="1167,304,1275,331"/>
+<area shape="rect" id="node11" href="$_i_plug_logger_8h_source.html" title="IPlugLogger.h" alt="" coords="367,453,469,480"/>
+<area shape="rect" id="node24" href="$_i_plug_midi_8h_source.html" title="IPlugMidi.h" alt="" coords="651,453,737,480"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="IPlugWAM" name="IPlugWAM">
+<area shape="rect" id="node2" href="$class_i_plug_base_graphics.html" title="An IPlugBase class for an IPlug plug&#45;in that uses IGraphics for it&#39;s UI. " alt="" coords="5,80,160,107"/>
+<area shape="rect" id="node3" href="$class_i_plug_base.html" title="The lowest level base class of an IPlug plug&#45;in. " alt="" coords="41,5,123,32"/>
+</map>

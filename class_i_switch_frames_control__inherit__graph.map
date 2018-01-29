@@ -1,0 +1,5 @@
+<map id="ISwitchFramesControl" name="ISwitchFramesControl">
+<area shape="rect" id="node2" href="$class_i_switch_control.html" title="A switch. " alt="" coords="27,155,135,181"/>
+<area shape="rect" id="node3" href="$class_i_bitmap_control.html" title="A basic control to draw a bitmap, or one frame of a stacked bitmap depending on the current value..." alt="" coords="27,80,136,107"/>
+<area shape="rect" id="node4" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="47,5,115,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MidiApi" name="MidiApi">
+<area shape="rect" id="node2" href="$class_midi_in_api.html" title="MidiInApi" alt="" coords="25,80,100,107"/>
+<area shape="rect" id="node4" href="$class_midi_out_api.html" title="MidiOutApi" alt="" coords="138,80,224,107"/>
+<area shape="rect" id="node3" href="$class_midi_in_dummy.html" title="MidiInDummy" alt="" coords="5,155,107,181"/>
+<area shape="rect" id="node5" href="$class_midi_out_dummy.html" title="MidiOutDummy" alt="" coords="131,155,244,181"/>
+</map>

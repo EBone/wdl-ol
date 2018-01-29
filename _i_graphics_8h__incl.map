@@ -1,0 +1,17 @@
+<map id="IGraphics.h" name="IGraphics.h">
+<area shape="rect" id="node3" href="$_i_graphics_constants_8h_source.html" title="IGraphicsConstants.h" alt="" coords="451,155,599,181"/>
+<area shape="rect" id="node18" href="$_i_graphics_structs_8h_source.html" title="IGraphicsStructs.h" alt="" coords="264,304,393,331"/>
+<area shape="rect" id="node22" href="$_i_graphics_utilites_8h_source.html" title="IGraphicsUtilites.h" alt="" coords="357,80,487,107"/>
+<area shape="rect" id="node23" href="$_i_popup_menu_8h.html" title="A class for setting the contents of a pop up menu. " alt="" coords="204,453,311,480"/>
+<area shape="rect" id="node24" href="$_i_control_8h.html" title="The lowest level base class of an IGraphics control. " alt="" coords="563,80,641,107"/>
+<area shape="rect" id="node4" href="$_i_plug_platform_8h.html" title="Include to get consistently named preprocessor macros for different platforms and logging functionali..." alt="" coords="469,379,580,405"/>
+<area shape="rect" id="node5" href="$_i_plug_logger_8h_source.html" title="IPlugLogger.h" alt="" coords="474,453,576,480"/>
+<area shape="rect" id="node14" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="824,528,931,555"/>
+<area shape="rect" id="node17" href="$_i_plug_constants_8h.html" title="Constant definitions, magic numbers. " alt="" coords="1119,603,1241,629"/>
+<area shape="rect" id="node25" href="$_i_plug_base_graphics_8h.html" title="An IPlugBase class for an IPlug plug&#45;in that uses IGraphics for it&#39;s UI. " alt="" coords="685,155,829,181"/>
+<area shape="rect" id="node26" href="$_i_plug_base_8h.html" title="The lowest level base class of an IPlug plug&#45;in. " alt="" coords="771,229,864,256"/>
+<area shape="rect" id="node28" href="$_i_plug_structs_8h_source.html" title="IPlugStructs.h" alt="" coords="765,304,869,331"/>
+<area shape="rect" id="node30" href="$_i_plug_parameter_8h_source.html" title="IPlugParameter.h" alt="" coords="816,453,939,480"/>
+<area shape="rect" id="node31" href="$_n_chan_delay_8h_source.html" title="NChanDelay.h" alt="" coords="946,304,1053,331"/>
+<area shape="rect" id="node29" href="$_i_plug_midi_8h_source.html" title="IPlugMidi.h" alt="" coords="963,453,1049,480"/>
+</map>

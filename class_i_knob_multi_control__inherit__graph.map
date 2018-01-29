@@ -1,0 +1,4 @@
+<map id="IKnobMultiControl" name="IKnobMultiControl">
+<area shape="rect" id="node2" href="$class_i_knob_control.html" title="Parent for knobs, to handle mouse action and ballistics. " alt="" coords="19,80,117,107"/>
+<area shape="rect" id="node3" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="34,5,101,32"/>
+</map>

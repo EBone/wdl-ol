@@ -1,0 +1,8 @@
+<map id="IBitmapControl" name="IBitmapControl">
+<area shape="rect" id="node3" href="$class_i_switch_control.html" title="A switch. " alt="" coords="266,155,373,181"/>
+<area shape="rect" id="node2" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="286,5,353,32"/>
+<area shape="rect" id="node4" href="$class_i_bitmap_overlay_control.html" title="A knob that consists of a static base, a rotating mask, and a rotating top. " alt="" coords="5,229,159,256"/>
+<area shape="rect" id="node5" href="$class_i_contact_control.html" title="A switch that reverts to 0.0 when released. " alt="" coords="184,229,299,256"/>
+<area shape="rect" id="node6" href="$class_i_switch_frames_control.html" title="A switch where each frame of the bitmap contains images for multiple button states. " alt="" coords="323,229,475,256"/>
+<area shape="rect" id="node7" href="$class_i_switch_pop_up_control.html" title="Like ISwitchControl except it puts up a popup menu instead of cycling through states on click..." alt="" coords="499,229,647,256"/>
+</map>
